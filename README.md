@@ -20,7 +20,7 @@ Repositorio del grupo 9 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 ## 🎯 Objetivos
 
 - Objetivo general:
-  - *Describir el objetivo principal del proyecto.*
+  - *Ayudar a controlar/evitar la procrastinacion. Tambien ayudara a evitar la pereza y fomentar el estudio recurrente.*
 - Objetivos específicos:
   - *Listar objetivos concretos que permitirán alcanzar el objetivo general.*
 
@@ -28,7 +28,7 @@ Repositorio del grupo 9 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 
 ## 🧩 Alcance del proyecto
 
-> *Nuestro proyecto esta diseñado para la mayoria de personas, ya que ayuda a combatir la procastinacion, sin embargo esto va a ser limitado a las personas que puedan comprar/conseguir la lampara*
+> *Nuestro proyecto esta diseñado para la mayoria de personas, ya que ayuda a combatir la procrastinacion, sin embargo esto va a ser limitado a las personas que puedan comprar/conseguir la lampara*
 
 ---
 
