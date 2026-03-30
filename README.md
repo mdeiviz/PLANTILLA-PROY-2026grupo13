@@ -7,7 +7,7 @@ Repositorio del grupo 9 para el proyecto del ramo *Proyecto Inicial (IWG400)* â€
 | Nombre y Apellido | Usuario GitHub | Correo USM               | Rol USM      |
 | ----------------- | -------------- | ------------------------ | ------------ |
 | Marcelo Calles    | @mdeiviz       | mcalles@usm.cl           | 202630032-3  |
-| Agustin Jimenez   | @usuario2      | nombre2.apellido2@usm.cl | 200000000000 |
+| Agustin Jimenez   | @ajimenezzo    | ajimenezza@usm.cl        | 200000000000 |
 | Rodrigo Araya     | @elcalculas3000| rarayam@usm.cl           | 202630040-4   
 
 
