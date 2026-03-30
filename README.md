@@ -28,7 +28,7 @@ Repositorio del grupo 9 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 
 ## 🧩 Alcance del proyecto
 
-> *Definir qué aspectos cubre el proyecto y qué queda fuera del alcance (limitaciones).*
+> *Nuestro proyecto esta diseñado para la mayoria de personas, ya que ayuda a combatir la procastinacion, sin embargo esto va a ser limitado a las personas que puedan comprar/conseguir la lampara*
 
 ---
 
