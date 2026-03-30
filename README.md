@@ -8,8 +8,8 @@ Repositorio del grupo 9 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 | ----------------- | -------------- | ------------------------ | ------------ |
 | Marcelo Calles    | @mdeiviz       | mcalles@usm.cl           | 202630032-3  |
 | Agustin Jimenez   | @usuario2      | nombre2.apellido2@usm.cl | 200000000000 |
-| Rodrigo Araya     | @elcalculas3000      | rarayam@usm.cl           | 202630040-4   
-| Nombre4 Apellido4 | @usuario4      | nombre4.apellido4@usm.cl | 200000000000 |
+| Rodrigo Araya     | @elcalculas3000| rarayam@usm.cl           | 202630040-4   
+
 
 ## 📝 Descripción breve del proyecto
 
