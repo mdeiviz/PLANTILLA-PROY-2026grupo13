@@ -16,7 +16,22 @@ Repositorio del grupo 9 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 
 ## 📝 Descripción breve del proyecto
 
-> *Nuestro proyecto se trata de una lámpara inteligente impulsada por Arduino Uno Q y Phyton, nos motivaremos en realizar este proyecto para poder vencer la proscrastinacion y la falta de interes al estudio.*
+> *Nuestro proyecto se trata de una lámpara inteligente impulsada por Arduino Uno Q y Phyton. Esta lampara utiliza el famoso método de estudio "Pomodoro", 25 minutos de estudio y 5 minutos de descanso. Para que el sistema de inicio un sensor de ultrasonido tiene que detectar que el usuario depósito su dispositivo en una base específica. Si durante el tiempo dedicado al estudio el usuario retira su dispositivo de la base, el sistema activara una serie de luces intermitentes y ruidos molestos con el fin de obligar a devolver el dispositivo.*
+
+---
+
+## 🎯 Objetivos
+
+- Objetivo general:
+  - *Ayudar a controlar/evitar la procrastinacion. Tambien ayudara a evitar la pereza y fomentar el estudio recurrente.*
+- Objetivos específicos:
+  - *Evitar la impulsividad de las personas por ocupar el dispositivo móvil durante las horas de estudio.*
+
+---
+
+## 🧩 Alcance del proyecto
+
+> *Nuestro proyecto esta diseñado para la mayoria de personas principalmente para usuarios que deseen estudiar activamente y enfocado, ya que ayuda a combatir la procrastinacion, sin embargo esto va a ser limitado a las personas que puedan comprar/conseguir la lampara
 
 ---
 
