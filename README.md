@@ -35,15 +35,6 @@ Repositorio del grupo 9 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 
 ---
 
-## 🎯 Objetivos
-
-- Objetivo general:
-  - *Ayudar a controlar/evitar la procrastinacion. Tambien ayudara a evitar la pereza y fomentar el estudio recurrente.*
-- Objetivos específicos:
-  - *Evitar la impulsividad de las personas por ocupar el dispositivo móvil durante las horas de estudio.*
-
----
-
 
 
 ---
