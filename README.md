@@ -116,4 +116,4 @@ Uno para detectar la presencia del usuario y otro para la base donde ira el celu
 
 ## 📌 Notas adicionales
 
-> *Nuestro grupo se coordinara para repartirse los materiales de la lámpara*
+> *Nuestro grupo se coordinara para repartirse los materiales de la lámpara. Se tiene mucha esperanza en completar el proyecto. Va a estar listo antes de Julio. El tiempo en clase, taller y ayudantia se aprovecha al maximo en este proyecto*
