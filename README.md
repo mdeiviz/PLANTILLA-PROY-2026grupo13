@@ -1,3 +1,4 @@
+
 # PROY-2026-GRUPO9
 
 Repositorio del grupo 9 para el proyecto del ramo *Proyecto Inicial (IWG400)* – 2026.
@@ -13,7 +14,7 @@ Repositorio del grupo 9 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 
 ## 📝 Descripción breve del proyecto
 
-> *Aquí va una descripción general del proyecto, incluyendo su propósito, contexto dentro del curso y motivación.*
+> *Nuestro proyecto se trata de una lámpara inteligente impulsada por Arduino Uno Q, nos motivaremos en realizar este proyecto para poder vencer la proscrastinacion y la falta de interes al estudio.*
 
 ---
 
