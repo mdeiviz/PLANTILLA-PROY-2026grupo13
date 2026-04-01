@@ -55,9 +55,23 @@ Repositorio del grupo 9 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 - Lenguaje(s) de programación:
   - Ej: Python, JavaScript, C++
 - Microcontroladores
-  - Arduino UNO Q, ESP32
-- Sensores
-
+ - Arduino UNO Q
+  - 1 anillo LED(neopixel):
+    Para las señales visuales(colores de la lampara)
+  - 1 Buzzer(zumbador):
+    Para las alertas sonoras
+  - conectividad y energia protoboard:
+    Para realizar las conexiones
+  -Resistencia 10k/omega:
+   Necesario para incluir el sensor de luz(LDR)
+- Sensores:
+- 2 sensores de ultra sonido(HC-SR04):
+Uno para detectar la presencia del usuario y otro para la base donde ira el celular
+- 1 Sensor de luz (LDR/fotorresistencia)
+- Cables:
+- cables jumper:
+  Para interconectar los sensores y el arduino
+- cable usb
 ---
 
 ## 🗂️ Estructura del repositorio
