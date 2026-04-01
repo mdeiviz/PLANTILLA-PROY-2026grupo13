@@ -31,7 +31,7 @@ Repositorio del grupo 9 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 
 ## 🧩 Alcance del proyecto
 
-> *Nuestro proyecto esta diseñado para la mayoria de personas principalmente para usuarios que deseen estudiar activamente y enfocado, ya que ayuda a combatir la procrastinacion, sin embargo esto va a ser limitado a las personas que puedan comprar/conseguir la lampara
+> *Nuestro proyecto esta diseñado para la mayoria de personas principalmente para usuarios que deseen estudiar activamente y enfocado, ya que ayuda a combatir la procrastinacion, sin embargo esto va a ser limitado a las personas que puedan comprar/conseguir la lámpara*
 
 ---
 
@@ -44,9 +44,7 @@ Repositorio del grupo 9 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 
 ---
 
-## 🧩 Alcance del proyecto
 
-> *Nuestro proyecto esta diseñado para la mayoria de personas principalmente para usuarios que deseen estudiar activamente y enfocado, ya que ayuda a combatir la procrastinacion, sin embargo esto va a ser limitado a las personas que puedan comprar/conseguir la lámpara*
 
 ---
 
