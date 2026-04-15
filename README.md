@@ -95,7 +95,7 @@ Uno para detectar la presencia del usuario y otro para la base donde ira el celu
 
 ## 📅 Cronograma de trabajo
 
-[Carta Gantt](https://google.com)
+https://docs.google.com/spreadsheets/d/1CcX0aTBr_XU3_2mes6ReFvEExH6PbtW5B8dL8ZpOh88/edit?usp=sharing
 
 ---
 
