@@ -66,7 +66,6 @@ Uno para detectar la presencia del usuario y otro para la base donde ira el celu
 
 ## 🗂️ Estructura del repositorio
 
-```
 -Codigo para sistema de la lampara
 [CODIGO PREYECTO LUMEN FOCUS.txt](https://github.com/user-attachments/files/29187856/CODIGO.PREYECTO.LUMEN.FOCUS.txt)
 
@@ -90,8 +89,8 @@ videos e imagenes sobre el proyecto
 ## 📐 Diseño del Sistema
 ![Diagrama de Conexiones](./assets/diagrama_conexiones.png)
 
-*Explicacion grafica de como es la conexion entre el arduino y los sensores*
-
+<img width="1481" height="872" alt="Modelo cableado de lomen focus" src="https://github.com/user-attachments/assets/50099fac-31b5-4835-bb05-24ecb6dbddf7" />
+Circuito de cableado entre el arduino y el protoboard.
 ---
 
 ## 📅 Cronograma de trabajo
