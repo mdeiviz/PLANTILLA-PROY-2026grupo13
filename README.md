@@ -88,7 +88,7 @@ Despues de estos pasos estara funcionando la base de nuestro proyecto.
 ## 📐 Diseño del Sistema
 ![Diagrama de Conexiones](./assets/diagrama_conexiones.png)
 
-<img width="1481" height="872" alt="Modelo cableado de lomen focus" src="https://github.com/user-attachments/assets/50099fac-31b5-4835-bb05-24ecb6dbddf7" />
+
 Circuito de cableado entre el arduino y el protoboard.<img width="1481" height="872" alt="Modelo cableado de lomen focus" src="https://github.com/user-attachments/assets/b2f3ceb8-480c-4918-b5f7-fe4f63dff245" />
 
 ---
