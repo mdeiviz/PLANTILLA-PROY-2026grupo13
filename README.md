@@ -26,12 +26,13 @@ Repositorio del grupo 9 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
   - *Ayudar a controlar/evitar la procrastinacion. Tambien ayudara a evitar la pereza y fomentar el estudio recurrente.*
 - Objetivos específicos:
   - *Evitar la impulsividad de las personas por ocupar el dispositivo móvil durante las horas de estudio.*
+  - *Ayudar a los estudiantes a que estudien activamente durante sus horarios personales de estudio*
 
 ---
 
 ## 🧩 Alcance del proyecto
 
-> *Nuestro proyecto esta diseñado para la mayoria de personas principalmente para usuarios que deseen estudiar activamente y enfocado, ya que ayuda a combatir la procrastinacion, sin embargo esto va a ser limitado a las personas que puedan comprar/conseguir la lámpara*
+> *Nuestro proyecto esta diseñado para la mayoria de personas principalmente para usuarios que deseen estudiar activamente y enfocado, ya que ayuda a combatir la procrastinacion, con este proyecto nos gustaria ayudar a la comunidad educativa a que trabaje activamente durante sus horas de estudio personal*
 
 ---
 
@@ -42,7 +43,7 @@ Repositorio del grupo 9 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 ## 🛠️ Tecnologías y herramientas utilizadas
 
 - Lenguaje(s) de programación:
-  - Ej: Python, JavaScript, C++
+   Python, JavaScript, C++.Estos fueron los lenguajes de programacion que utilizamos para crear el codigo y la pagina para nuestro proyecto.
 - Microcontroladores
  - Arduino UNO Q
   - 1 anillo LED(neopixel):
@@ -66,16 +67,16 @@ Uno para detectar la presencia del usuario y otro para la base donde ira el celu
 ## 🗂️ Estructura del repositorio
 
 ```
-/PROY-2026-GRUPOX
-│
-├── docs/               # Documentación general y reportes
-├── src/                # Código fuente del proyecto
-├── tests/              # Casos de prueba
-├── assets/             # Imágenes, diagramas, etc.
-└── README.md           # Este archivo
-```
+-Codigo para sistema de la lampara
+[CODIGO PREYECTO LUMEN FOCUS.txt](https://github.com/user-attachments/files/29187856/CODIGO.PREYECTO.LUMEN.FOCUS.txt)
 
----
+videos e imagenes sobre el proyecto
+-
+<img width="720" height="1280" alt="727050537_1036024102441757_3620500205838252874_n" src="https://github.com/user-attachments/assets/6600fcbb-d6a2-49ac-a552-3b8777a740bb" />
+<img width="540" height="960" alt="727952644_1575553677514812_5101197501236849779_n_" src="https://github.com/user-attachments/assets/1bac9c03-2b49-4992-be62-d6735ff78900" />
+<img width="720" height="1280" alt="728089208_1040390105212112_2399838932422697178_n" src="https://github.com/user-attachments/assets/22680b2f-ae2c-4635-9683-765ebbbd0f2d" />
+
+
 
 ## 🚀 Instrucciones de Instalacion y Uso
 
@@ -89,7 +90,7 @@ Uno para detectar la presencia del usuario y otro para la base donde ira el celu
 ## 📐 Diseño del Sistema
 ![Diagrama de Conexiones](./assets/diagrama_conexiones.png)
 
-*Explicacion grafica de como es la conexion entre el microcontrolador y los sensores*
+*Explicacion grafica de como es la conexion entre el arduino y los sensores*
 
 ---
 
