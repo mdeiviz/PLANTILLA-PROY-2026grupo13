@@ -28,17 +28,11 @@ Repositorio del grupo 9 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
   - *Evitar la impulsividad de las personas por ocupar el dispositivo móvil durante las horas de estudio.*
   - *Ayudar a los estudiantes a que estudien activamente durante sus horarios personales de estudio*
 
----
 
 ## 🧩 Alcance del proyecto
 
 > *Nuestro proyecto esta diseñado para la mayoria de personas principalmente para usuarios que deseen estudiar activamente y enfocado, ya que ayuda a combatir la procrastinacion, con este proyecto nos gustaria ayudar a la comunidad educativa a que trabaje activamente durante sus horas de estudio personal*
 
----
-
-
-
----
 
 ## 🛠️ Tecnologías y herramientas utilizadas
 
@@ -67,13 +61,14 @@ Uno para detectar la presencia del usuario y otro para la base donde ira el celu
 ## 🗂️ Estructura del repositorio
 
 -Codigo para sistema de la lampara
-[CODIGO PREYECTO LUMEN FOCUS.txt](https://github.com/user-attachments/files/29187856/CODIGO.PREYECTO.LUMEN.FOCUS.txt)
+[CODIGO PREYECTO LUMEN FOCUS.txt](https://github.com/user-attachments/files/29188336/CODIGO.PREYECTO.LUMEN.FOCUS.txt)
+
 
 videos e imagenes sobre el proyecto
 -
-<img width="720" height="1280" alt="728089208_1040390105212112_2399838932422697178_n" src="https://github.com/user-attachments/assets/400d1b19-9497-415f-9822-c72db5f34e58" />
+
 <img width="540" height="960" alt="727952644_1575553677514812_5101197501236849779_n_" src="https://github.com/user-attachments/assets/dc1ab2fd-6be4-4fa7-9fac-42152595da20" />
-<img width="720" height="1280" alt="727050537_1036024102441757_3620500205838252874_n" src="https://github.com/user-attachments/assets/434a498b-e3b5-4154-801d-a8435eb255e5" />
+
 
 
 
@@ -81,9 +76,12 @@ videos e imagenes sobre el proyecto
 ## 🚀 Instrucciones de Instalacion y Uso
 
 
-1. **Clonar el repositorio:** `git clone ...`
-2. **Dependencias:** Listar qué librerías necesitan (ej: `pip install -r requirements.txt` o librerías de Arduino).
-3. **Ejecución:** Cómo se corre el código principal.
+1.Conectar el arduino 1 Q a una fuente de energia o dispositivo electronico
+2.Inetegrar el codigo al arduino
+3.REalizar el cableado entre el arduino y el protoboard
+4.Conectar los leds en el protoboard
+5.Despues de realizar todo el hardware, ejecutarb el codigo para que el sistema base de la lampara funcione
+Despues de estos pasos estara funcionando la base de nuestro proyecto.
 
 ---
 
