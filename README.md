@@ -82,8 +82,8 @@ https://github.com/user-attachments/assets/ddbc0520-f6d3-47aa-a389-709deceda77c
 
 <img width="540" height="960" alt="727952644_1575553677514812_5101197501236849779_n_" src="https://github.com/user-attachments/assets/dc1ab2fd-6be4-4fa7-9fac-42152595da20" />
 
-
-
+Video final mostrando el proyecto:
+https://youtube.com/shorts/vkEFeJEyraw?si=1iKatKr3ebeUN4sv
 
 
 ## 🚀 Instrucciones de Instalacion y Uso
