@@ -90,10 +90,10 @@ https://youtube.com/shorts/vkEFeJEyraw?si=1iKatKr3ebeUN4sv
 
 
 1.Conectar el arduino 1 Q, a una fuente de energia o dispositivo electronico. 
-2.Inetegrar el codigo al arduino. 
-3.REalizar el cableado entre el arduino y el protoboard. 
+2.Integrar el codigo al arduino. 
+3.Realizar el cableado entre el arduino y el protoboard. 
 4.Conectar los leds en el protoboard. 
-5.Despues de realizar todo el hardware, ejecutarb el codigo para que el sistema base de la lampara funcione. 
+5.Despues de realizar todo el hardware, ejecutar el codigo para que el sistema base de la lampara funcione. 
 Despues de estos pasos estara funcionando la base de nuestro proyecto.
 
 ---
