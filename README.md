@@ -23,15 +23,23 @@ Repositorio del grupo 9 para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 ## 🎯 Objetivos
 
 - Objetivo general:
-  - *Ayudar a controlar/evitar la procrastinacion. Tambien ayudara a evitar la pereza y fomentar el estudio recurrente.*
+  -Diseñar y desarrollar una lámpara inteligente llamada Lumen Focus que integre el método Pomodoro para fomentar la concentración, reducir la procrastinación y mejorar la productividad en sesiones de estudio o trabajo.
+  
 - Objetivos específicos:
-  - *Evitar la impulsividad de las personas por ocupar el dispositivo móvil durante las horas de estudio.*
-  - *Ayudar a los estudiantes a que estudien activamente durante sus horarios personales de estudio*
+- *Evitar la impulsividad de las personas por ocupar el dispositivo móvil durante las horas de estudio.*
+- *Ayudar a los estudiantes a que estudien activamente durante sus horarios personales de estudio*
+- Implementar un sistema de temporizador Pomodoro en la lámpara para guiar ciclos de estudio y descanso.
+-Incorporar indicadores visuales (luces LED de diferentes colores) que señalen las fases de concentración y pausa.
+-Diseñar una interfaz sencilla y amigable para configurar tiempos y preferencias del usuario.
+-Promover hábitos de estudio más eficientes mediante el uso de tecnología accesible y motivadora.
 
+
+
+   
 
 ## 🧩 Alcance del proyecto
 
-> *Nuestro proyecto esta diseñado para la mayoria de personas principalmente para usuarios que deseen estudiar activamente y enfocado, ya que ayuda a combatir la procrastinacion, con este proyecto nos gustaria ayudar a la comunidad educativa a que trabaje activamente durante sus horas de estudio personal*
+> El proyecto Lumen Focus abarcará el diseño conceptual, la construcción de un prototipo funcional y la realización de pruebas iniciales para validar su utilidad como herramienta antiprocrastinación. Se desarrollará un sistema integrado que combine hardware y software, utilizando un microcontrolador como Arduino para controlar los ciclos del método Pomodoro y las señales visuales mediante luces LED. El alcance se limita a la creación de un prototipo orientado a estudiantes y profesionales que buscan mejorar su concentración y gestión del tiempo.
 
 
 ## 🛠️ Tecnologías y herramientas utilizadas
@@ -65,7 +73,12 @@ Uno para detectar la presencia del usuario y otro para la base donde ira el celu
 
 
 videos e imagenes sobre el proyecto
--
+-<img width="1200" height="1600" alt="WhatsApp Image 2026-06-21 at 11 13 30 PM" src="https://github.com/user-attachments/assets/8942b678-28ff-47f3-a92f-99eb1488a82b" />
+
+
+https://github.com/user-attachments/assets/ddbc0520-f6d3-47aa-a389-709deceda77c
+
+
 
 <img width="540" height="960" alt="727952644_1575553677514812_5101197501236849779_n_" src="https://github.com/user-attachments/assets/dc1ab2fd-6be4-4fa7-9fac-42152595da20" />
 
@@ -94,6 +107,7 @@ Circuito de cableado entre el arduino y el protoboard.<img width="1481" height="
 ---
 
 ## 📅 Cronograma de trabajo
+Carta Gantt
 
 https://docs.google.com/spreadsheets/d/1CcX0aTBr_XU3_2mes6ReFvEExH6PbtW5B8dL8ZpOh88/edit?usp=sharing
 
