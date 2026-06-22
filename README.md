@@ -107,4 +107,4 @@ https://docs.google.com/spreadsheets/d/1CcX0aTBr_XU3_2mes6ReFvEExH6PbtW5B8dL8ZpO
 
 ## 📌 Notas adicionales
 
-> *Nuestro grupo se coordinara para repartirse los materiales de la lámpara. Se tiene mucha esperanza en completar el proyecto. Va a estar listo antes de Julio. El tiempo en clase, taller y ayudantia se aprovecha al maximo en este proyecto*
+> *Esto es todo nuestro proyecto, no pudimos avanzar mucho mas por falta de materiales como tambien por falta de conocimiento, pero aun asi logramos realizar la base del proyecto que deseamos realizar, tambien intentamos realizar una pagina para que pueda usarse para el sistema de la lampara pero lastimosamente no pudimos terminarla*
