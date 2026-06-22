@@ -3,14 +3,14 @@
 
 # PROY-2026-GRUPO9
 
-Repositorio del grupo 9 para el proyecto del ramo *Proyecto Inicial (IWG400)* – 2026.
+Repositorio del grupo 13 para el proyecto del ramo *Proyecto Inicial (IWG400)* – 2026.
 
 ## 👥 Integrantes del grupo
 
 | Nombre y Apellido | Usuario GitHub | Correo USM               | Rol USM      |
 | ----------------- | -------------- | ------------------------ | ------------ |
 | Marcelo Calles    | @mdeiviz       | mcalles@usm.cl           | 202630032-3  |
-| Agustin Jimenez   | @ajimenezzo    | ajimenezza@usm.cl        | 200000000000 |
+| Agustin Jimenez   | @ajimenezzo    | ajimenezza@usm.cl        | 202630006-4  |
 | Rodrigo Araya     | @elcalculas3000| rarayam@usm.cl           | 202630040-4   
 
 
