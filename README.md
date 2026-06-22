@@ -61,7 +61,7 @@ Uno para detectar la presencia del usuario y otro para la base donde ira el celu
 ## 🗂️ Estructura del repositorio
 
 -Codigo para sistema de la lampara
-[CODIGO PREYECTO LUMEN FOCUS.txt](https://github.com/user-attachments/files/29188336/CODIGO.PREYECTO.LUMEN.FOCUS.txt)
+[Código para lumen focus.docx](https://github.com/user-attachments/files/29188548/Codigo.para.lumen.focus.docx)
 
 
 videos e imagenes sobre el proyecto
