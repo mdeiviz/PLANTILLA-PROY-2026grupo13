@@ -71,9 +71,10 @@ Uno para detectar la presencia del usuario y otro para la base donde ira el celu
 
 videos e imagenes sobre el proyecto
 -
-<img width="720" height="1280" alt="727050537_1036024102441757_3620500205838252874_n" src="https://github.com/user-attachments/assets/6600fcbb-d6a2-49ac-a552-3b8777a740bb" />
-<img width="540" height="960" alt="727952644_1575553677514812_5101197501236849779_n_" src="https://github.com/user-attachments/assets/1bac9c03-2b49-4992-be62-d6735ff78900" />
-<img width="720" height="1280" alt="728089208_1040390105212112_2399838932422697178_n" src="https://github.com/user-attachments/assets/22680b2f-ae2c-4635-9683-765ebbbd0f2d" />
+<img width="720" height="1280" alt="728089208_1040390105212112_2399838932422697178_n" src="https://github.com/user-attachments/assets/400d1b19-9497-415f-9822-c72db5f34e58" />
+<img width="540" height="960" alt="727952644_1575553677514812_5101197501236849779_n_" src="https://github.com/user-attachments/assets/dc1ab2fd-6be4-4fa7-9fac-42152595da20" />
+<img width="720" height="1280" alt="727050537_1036024102441757_3620500205838252874_n" src="https://github.com/user-attachments/assets/434a498b-e3b5-4154-801d-a8435eb255e5" />
+
 
 
 
@@ -90,7 +91,8 @@ videos e imagenes sobre el proyecto
 ![Diagrama de Conexiones](./assets/diagrama_conexiones.png)
 
 <img width="1481" height="872" alt="Modelo cableado de lomen focus" src="https://github.com/user-attachments/assets/50099fac-31b5-4835-bb05-24ecb6dbddf7" />
-Circuito de cableado entre el arduino y el protoboard.
+Circuito de cableado entre el arduino y el protoboard.<img width="1481" height="872" alt="Modelo cableado de lomen focus" src="https://github.com/user-attachments/assets/b2f3ceb8-480c-4918-b5f7-fe4f63dff245" />
+
 ---
 
 ## 📅 Cronograma de trabajo
